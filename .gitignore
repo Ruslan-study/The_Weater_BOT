@@ -1,0 +1,8 @@
+text
+__pycache__/
+*.pyc
+.env
+subscribers.json
+settings.json
+venv/
+.venv/
